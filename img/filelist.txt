@@ -1,0 +1,19 @@
+ Volume in drive D is Antarctida
+ Volume Serial Number is BC5F-156E
+
+ Directory of D:\Kamen-Folders\Documents\others\css-grid\project-start\project-start\img
+
+26.03.2019 £.  14:44    <DIR>          .
+26.03.2019 £.  14:44    <DIR>          ..
+26.03.2019 £.  11:05            64,130 data_storage_2_2.png
+26.03.2019 £.  11:05            75,932 desktop_analytics_2.png
+26.03.2019 £.  14:44                 0 filelist.txt
+26.03.2019 £.  11:05            38,599 files_2.png
+26.03.2019 £.  11:05            72,723 monitor_coding_2.png
+26.03.2019 £.  11:05            87,913 monitor_settings_2.png
+26.03.2019 £.  11:05            81,717 server_2_2.png
+26.03.2019 £.  11:05            95,124 server_3.png
+26.03.2019 £.  11:05            52,246 server_safe_2.png
+26.03.2019 £.  11:05           131,808 undraw.png
+              10 File(s)        700,192 bytes
+               2 Dir(s)  682,576,719,872 bytes free
